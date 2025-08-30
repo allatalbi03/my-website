@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -12,7 +12,6 @@ body {
     margin: 0 auto;
 }
 
-/* Header */
 header {
     background-color: #333;
     color: white;
@@ -28,7 +27,6 @@ header p {
     font-size: 18px;
 }
 
-/* Profile Image */
 .profile-img {
     width: 150px;
     height: 150px;
@@ -36,7 +34,6 @@ header p {
     margin-top: 20px;
 }
 
-/* Sections */
 section {
     padding: 40px 0;
 }
@@ -61,7 +58,6 @@ li {
     margin-bottom: 10px;
 }
 
-/* Section Images */
 .section-img {
     width: 100%;
     height: auto;
@@ -70,7 +66,6 @@ li {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Footer */
 footer {
     background-color: #333;
     color: white;
@@ -81,3 +76,4 @@ footer {
 footer p {
     margin: 0;
 }
+
